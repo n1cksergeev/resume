@@ -1,0 +1,178 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;}
+/* Main section Общая секция */
+.Main_section {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);}
+/* Main content section Главная правая секция*/
+.main_content_section {
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    padding-left: 50px;}
+.About_me_section {
+    margin-bottom: 40px;}
+.about_me_profession {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-bottom: 20px;}
+.about_me_name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin-bottom: 25px;}
+.about_me_description {
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;}
+/* Main_content_title Заглавие*/
+.main_content_title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 10px;}
+/* My project section */
+.My_project_section {
+    margin-bottom: 50px;}
+.my_project_list {
+    padding-left: 17px;}
+/* Нумерация */
+.my_project_item {
+    color: #000;
+    font-weight: bold;}
+.my_project_link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;}
+.my_projects_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;}
+.my_project_bracket {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;}
+/* Место работы */
+.My_work_experiens_section {
+    margin-bottom: 50px;}
+.my_work_experiens_company {
+    color: #FB6D3A;}
+.my_work_experiens_positions {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;}
+.My_work_experiens_period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 10px;}
+.my_work_experiens_divider {
+    color: #000;}
+/* Отступ */
+.My_work_experiens_duties {
+    padding-left: 17px;}
+/* Шрифт */
+.My_work_experiens_duty {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;}
+.My_work_experiens_company_block {
+    margin-bottom: 15px;}
+    /* Образование */
+.Edication_section {
+    margin: 0 0 0 0;}
+.University_section {
+    color: #FB6D3A;
+    margin-bottom: 10px;}
+.University_positions {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;}
+.Managment_position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 10px;}
+.My_work_education_period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;}
+.my_education_divider {
+    color: #000;}
+        /* Sidebar section Секция левая сайдбар */
+.Sidebar_section {
+    background-color: #1E2939;
+    width: 370px;
+    padding: 40px 0;}
+.Contacts_section {
+    margin: 50px 0 0 40px;}
+.Tech_skills_section {
+    margin: 50px 0 0 40px;}
+.Soft_skills_section {
+    margin: 45px 0 0 40px;}
+.Sidebar_title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;}
+/* Contacts section 1ый раздел */
+.Contacts_section_type {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 5px;}
+.Contacts_section_link {
+    color: #565E6A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;}
+/* Tech and Soft skills list Список 2ух разделов */
+.tech_soft_skills_list {
+    padding-left: 17px;}
+/* Tech and Soft skills item Выбор цвета для неупорядоченной нумерации 2ух разделов*/
+.tech_soft_skills_item {
+    color: #FB6D3A;}
+/* Tech and Soft skills item text Шрифт, стиль и цвет для 2ух разделов*/
+.tech_soft_skills_item_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;}
